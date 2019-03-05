@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AF320300-ED7E-441B-99EB-B653DD1D43E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>cSharpCourse</RootNamespace>
-    <AssemblyName>cSharpCourse</AssemblyName>
+    <RootNamespace>Hello</RootNamespace>
+    <AssemblyName>Hello</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
