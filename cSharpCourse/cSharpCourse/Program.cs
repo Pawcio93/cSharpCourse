@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace cSharpCourse
 {
@@ -10,6 +6,7 @@ namespace cSharpCourse
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Witaj świecie");
         }
     }
 }
