@@ -4,10 +4,10 @@ using System.Linq;
 
 namespace Student_diary
 {
-    class diary
+    class Diary
     {
         // stock (var's = cells)
-        List<float> ratings; // float - liczby zmiennoprzecinkowe
+        List<float> ratings = new List<float>(); // float - liczby zmiennoprzecinkowe
 
 
         // actions
